@@ -1,5 +1,5 @@
 {% note %}
 
-**Note:** {% data variables.product.prodname_github_container_registry %} is currently in public beta and subject to change. Currently, {% data variables.product.prodname_github_container_registry %} only supports Docker image formats. During the beta, storage and bandwidth is free. 詳しい情報については「[{% data variables.product.prodname_github_container_registry %}について](/packages/getting-started-with-github-container-registry/about-github-container-registry)」を参照してください。
+**注釈:** {% data variables.product.prodname_github_container_registry %} は現在パブリックベータであり、変更されることがあります。 ベータ期間中は、ストレージおよび帯域幅の制限はありません。 To use {% data variables.product.prodname_github_container_registry %}, you must enable the feature preview. For more information, see "[About {% data variables.product.prodname_github_container_registry %}](/packages/guides/about-github-container-registry)" and "[Enabling improved container support](/packages/guides/enabling-improved-container-support)."
 
 {% endnote %}
